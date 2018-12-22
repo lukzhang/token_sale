@@ -5,7 +5,7 @@ ERC20 token sale
 
 Webpage hosting the token sale: https://lukzhang.github.io/token_sale/
 
-With metamask, connect to Rinkeby network and buy some tokens. If you need tokens, use https://faucet.rinkeby.io/
+With metamask, connect to Rinkeby network and buy some tokens. If you need free ether, use https://faucet.rinkeby.io/
 
 
 
